@@ -1,5 +1,5 @@
-# Dino Game 
-Este projeto foi criado usando JS, HTML and CSS
+# Dino Game :video_game: 
+Este projeto foi criado usando JS, HTML e CSS
 
 ![screenshot](example.png?raw=true "screenshot")
 
