@@ -1,5 +1,7 @@
 # Dino Game :video_game: 
-Este projeto foi criado usando JS, HTML e CSS
+Este projeto foi criado usando JS, HTML e CSS.
+
+[Jogue agora](https://vitormatheus-18.github.io/DinoGame/):link:
 
 ![screenshot](example.png?raw=true "screenshot")
 
